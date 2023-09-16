@@ -26,7 +26,7 @@ Overview of the success criteria: https://www.w3.org/WAI/WCAG21/Understanding/
     1. Resources: [WCAG SC2.4.4](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context), [WCAG Technique F63](https://www.w3.org/WAI/WCAG21/Techniques/failures/F63)
 5. Focus outlines (sometimes called focus rings)
     1. Resources: [WCAG SC2.4.7](https://www.w3.org/WAI/WCAG21/Understanding/focus-visible), [WCAG Technique F78](https://www.w3.org/WAI/WCAG21/Techniques/failures/F78)
-6. A series of elements which should be a list
+6. A series of elements which should be a list (Perceivable)
     1. Resources: [WCAG SC1.3.1](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships), [WCAG Technique H48](https://www.w3.org/WAI/WCAG21/Techniques/html/H48)
 7. An element styled to look like a heading, but isn't (Perceivable)
     1. Resources: [WCAG SC1.3.1](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships), [WCAG Technique H42](https://www.w3.org/WAI/WCAG21/Techniques/html/H42)
