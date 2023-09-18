@@ -4,9 +4,12 @@ This repository contains two pages - one page, called "index," which has very fe
 ## Your mission
 As a squad, please do the following:
 1. Choose a member to fork the repo.
-1. Each dev will address at least two of the issues and investigate them using the resources below.
-1. Each dev will open PRs for the issues they've chosen. In your PR, let others know what you learned - be detailed!
-1. Review and merge PRs into your fork.
+1. Each dev should choose at least two of the issue types from the "Resources" section.
+1. Review the [`/mistakes` page](https://novellac.github.io/a11ylearn/mistakes) and find the type of error you've chosen to address. (Hint: Be sure to read the web pages paired with the issue you've chosen!)
+1. Make a PR which fixes the type of error.
+1. (Optional but helpful) compare your fix with the ["known good" page](https://novellac.github.io/a11ylearn/).
+1. In your PR, let others know how you found the error, what parts of WCAG were helpful for finding the error, and anything else you learned. Be detailed!
+1. Have other devs review and merge PRs into your fork.
 
 ## How to use this code
 1. Clone the repo to your computer.
